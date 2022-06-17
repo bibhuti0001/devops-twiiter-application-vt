@@ -1,1 +1,2 @@
-# devops-twiiter-application-vt
+# RTP-01 Valaxy technology
+# devops-twitter-application-vt
